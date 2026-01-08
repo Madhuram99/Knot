@@ -1,4 +1,4 @@
-# 🚀 AetherLink
+# 🚀 Knot-The connection might break, but the transfer won't
 
 **A modern, secure file transfer system with P2P capabilities and share ID-based access control.**
 
